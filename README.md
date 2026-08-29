@@ -6,6 +6,10 @@ Enter an expression, and the app looks up dictionary definitions from JMdict (ht
 
 This app is useful for Japanese language mining — I built it while visting Japan to quickly add words that I found when I didn't have time to enter all the fields by myself.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Japanese Card Generator screenshot" width="320">
+</p>
+
 ## How it works
 1. Enter an expression (word/phrase) and tap Generate.
 2. The app queries an offline JMdict-derived SQLite database and returns definitions and readings.
