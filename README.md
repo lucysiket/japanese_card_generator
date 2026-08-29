@@ -2,7 +2,7 @@
 
 A Swift iOS app that lets you create Japanese vocabulary flashcards and send them to AnkiMobile.
 
-Enter an expression, and the app looks up dictionary definitions from JMdict (https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project). You can refine each field and add your own notes. 
+Enter an expression, and the app looks up dictionary definitions from JMdict (https://github.com/yomidevs/jmdict-yomitan). You can refine each field and add your own notes. 
 
 This app is useful for Japanese language mining — I built it while visting Japan to quickly add words that I learnt when I didn't have time to enter fields myself.
 
