@@ -1,0 +1,25 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.DS_Store
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods / Carthage
+Pods/
+Carthage/Build/
+
+# Large generated / source data files (exceed GitHub's 100 MB file limit)
+# Rebuild the SQLite DB from the .gz sources with: python3 scripts/build_dictionary_db.py
+japanese_card_generator/JapaneseDictionary.sqlite
+japanese_card_generator/jmdict-all-3.6.2.json
